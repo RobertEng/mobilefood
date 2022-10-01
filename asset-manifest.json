@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/mobilefood/static/css/main.073c9b0a.css",
-    "main.js": "/mobilefood/static/js/main.b934e3a5.js",
+    "main.css": "/mobilefood/static/css/main.6cac5c3a.css",
+    "main.js": "/mobilefood/static/js/main.6c1335f8.js",
     "static/js/787.28cb0dcd.chunk.js": "/mobilefood/static/js/787.28cb0dcd.chunk.js",
-    "static/media/logo.svg": "/mobilefood/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/mobilefood/index.html",
-    "main.073c9b0a.css.map": "/mobilefood/static/css/main.073c9b0a.css.map",
-    "main.b934e3a5.js.map": "/mobilefood/static/js/main.b934e3a5.js.map",
+    "main.6cac5c3a.css.map": "/mobilefood/static/css/main.6cac5c3a.css.map",
+    "main.6c1335f8.js.map": "/mobilefood/static/js/main.6c1335f8.js.map",
     "787.28cb0dcd.chunk.js.map": "/mobilefood/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.b934e3a5.js"
+    "static/css/main.6cac5c3a.css",
+    "static/js/main.6c1335f8.js"
   ]
 }
